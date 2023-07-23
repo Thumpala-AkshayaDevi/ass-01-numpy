@@ -1,0 +1,6 @@
+import numpy as np
+
+random_vector = np.random.rand(30)
+mean_value = np.mean(random_vector)
+print(random_vector)
+print("Mean value:", mean_value)
